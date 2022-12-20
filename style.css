@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*.img-fluid{
+    height: 50px;
+}*/
+
+@media(min-width: 768px) {
+    .news-input: width: 50%;
+}
